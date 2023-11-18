@@ -1,5 +1,6 @@
 Processing 网格动画
 这个 Processing 程序创建了一个网格动画，可以变色并翻转矩形。
+homework1_2没有保存图像添加视频的代码
 homework1_3为保存图像添加视频的版本
 
 grid：确定每个网格单元的大小。
